@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box; 
+    padding: 0; 
+    margin: 0; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+.content {
+    background-color: #C7CCC8;  
+  padding: 2vh; 
+  display: flex; 
+  align-items: start;
+  justify-content: start;
+  flex-direction: row ; 
+  gap: 2vh; 
+flex-wrap: wrap;
+} 

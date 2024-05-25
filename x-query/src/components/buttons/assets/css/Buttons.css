@@ -1,0 +1,19 @@
+.btn-pourple {
+    background-color: #884AC7; 
+    padding: 1.7vh 4vw; 
+    border: none; 
+    border-radius: 1vh; 
+    color: white;
+    font-size: 1.2em;
+} 
+.defaultButton{
+    background-color: transparent;
+    border-radius: 3vh; 
+    border: 1px solid gray ; 
+    padding: 2vh 4vw;    
+    color: gray; 
+    font-size: 1.2em; 
+    font-weight: bold; 
+    
+    
+}
